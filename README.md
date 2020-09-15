@@ -2,7 +2,7 @@
 <img src="https://m.media-amazon.com/images/I/31TgumtJphL._AC_SS350_.jpg" width="30"/></h1>
 <p><em>Final Year Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p>Some deep affection with the language of the web </p>
+<p>Some deep affection for the language of the web </p>
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/362128/images/4055291/js.gif" width="300"/>
 <div align="left">
 
