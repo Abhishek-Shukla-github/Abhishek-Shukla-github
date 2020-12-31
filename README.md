@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abhishekshukla1999/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=abhishek-shukla-github&show_icons=true)
+
 
 **Languages and Tools:** 
 <p align="left">
