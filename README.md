@@ -1,4 +1,4 @@
-<h1>Hey there and welcome! 
+<h1>Hey there and welcome!
 <img src="https://m.media-amazon.com/images/I/31TgumtJphL._AC_SS350_.jpg" width="30"/></h1>
 <p><em>Final Year Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
