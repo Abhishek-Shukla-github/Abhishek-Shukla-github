@@ -1,5 +1,5 @@
 <h1>Hey there and welcome!
-<img src="https://m.media-amazon.com/images/I/31TgumtJphL._AC_SS350_.jpg" width="30"/></h1>
+<img src="https://banner2.cleanpng.com/20180715/qlh/kisspng-v-sign-peace-symbols-silhouette-victory-and-peace-day-5b4ae17caa25c9.2951178015316340446969.jpg" width="30"/></h1>
 <p><em>Final Year Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p>Some deep affection for the language of the web </p>
