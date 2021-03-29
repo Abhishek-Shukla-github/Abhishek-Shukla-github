@@ -7,6 +7,7 @@
 <p>Some deep affection for the language of the web </p>
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/362128/images/4055291/js.gif" width="300"/>
 <div align="left">
+<img src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" width="300"/>
 
 <i>Let's Connect:</i><br>
 
