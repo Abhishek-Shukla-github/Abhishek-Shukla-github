@@ -5,7 +5,6 @@
 <h2>React Developer at Hannovit Technologies!
 <p>And Learning Python Django to be a full stack developer!
 <p>Some deep affection for the language of the web </p>
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/362128/images/4055291/js.gif" width="300"/>
 <div align="left">
   
 ![](https://komarev.com/ghpvc/?username=Abhishek-Shukla-github)
