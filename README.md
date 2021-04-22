@@ -4,7 +4,6 @@
 <div><img src="https://i.ibb.co/q0zd2pJ/untitled.png" width="500"/></div>
 <h2>React Developer at Hannovit Technologies!
 <p>And Learning Python Django to be a full stack developer!
-<p>Some deep affection for the language of the web </p>
 <div align="left">
   
 ![](https://komarev.com/ghpvc/?username=Abhishek-Shukla-github)
