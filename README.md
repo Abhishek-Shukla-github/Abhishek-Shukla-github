@@ -26,4 +26,5 @@
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="60"/>
   <img src="https://djangocentral.com/wp-content/uploads/2019/03/New-Project-13.png" width="60"/>
   <img src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png" width="60"/>
+  <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" width="60"/>
 </p>
