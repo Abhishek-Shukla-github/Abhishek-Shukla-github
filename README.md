@@ -13,7 +13,7 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishek-shukla-github&theme=dark&fire=f00000)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishek-shukla-github&theme=highcontrast&hide_border=true&background=000000&ring=971B1B&border=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 **Languages and Tools:** 
 <p align="left">
