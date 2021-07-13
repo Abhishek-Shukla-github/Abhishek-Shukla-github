@@ -1,7 +1,8 @@
 <h1>Hey there and welcome!!! 
 <p><em>Final Year Engineering student
 </em></p>
-<h2>Former React Developer at Hannovit Technologies!
+<h2>Former React Developer Intern at Hannovit Technologies!
+ <h2>Current Full stack Developer Intern at Hannovit Technologies!
 <p>And Learning Python Django to be a full stack developer!
 <div align="left">
   
