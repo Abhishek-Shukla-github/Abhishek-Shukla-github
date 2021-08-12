@@ -10,9 +10,6 @@
 - 🌱 I’m super passionate to explore and learn about JS ecosystem especially in React , due to which i'm having currently learning NextJS.
 -IN Mumbai
 - 📱 (+91) 877 97 56 251
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-shukla-github)](https://git.io/streak-stats)
-
 <br><br>
 
 <div align="center">
@@ -21,3 +18,4 @@
 <a href="https://github.com/Abhishek-Shukla-github">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishek-shukla-github&theme=neon-dark)](https://git.io/streak-stats)
