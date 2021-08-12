@@ -11,11 +11,11 @@
 -IN Mumbai
 - 📱 (+91) 877 97 56 251
 <br><br>
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-shukla-github&theme=neon-dark)](https://git.io/streak-stats)
 <div align="center">
+</div>
 <a href="https://abhishek-shukla.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/Abhishek-Shukla-github">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishek-shukla-github&theme=neon-dark)](https://git.io/streak-stats)
+  <br>
