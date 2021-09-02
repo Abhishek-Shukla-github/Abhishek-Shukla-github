@@ -11,8 +11,6 @@
 -IN Mumbai
 - 📱 (+91) 877 97 56 251
 <br><br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-shukla-github&theme=neon-dark)](https://git.io/streak-stats)
-<div align="center">
 </div>
 <a href="https://abhishek-shukla.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
