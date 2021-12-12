@@ -9,7 +9,6 @@
 - 💻 I'm currently working with Django and MySQL , however im passionate most in React!!!
 - 🌱 I’m super passionate to explore and learn about JS ecosystem especially in React , due to which i'm having currently learning NextJS.
 -IN Mumbai
-- 📱 (+91) 877 97 56 251
 <br><br>
 </div>
 <a href="https://abhishek-shukla.netlify.app/">
