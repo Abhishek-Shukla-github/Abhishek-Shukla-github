@@ -5,7 +5,7 @@
 
 - 🎓 CS Graduate from Mumbai University 
 - 🏛 Full stack developer at Hannovit
-- ⚡ Expertise in ReactJS and currently re-polishing React
+- ⚡ Expertise in ReactJS and currently learning NextJS
 - 💻 I'm currently working with Django and MySQL , however im passionate most in React!!!
 - 🌱 I’m passionate to explore and learn about JS ecosystem especially in React , due to which i'm having currently learning NextJS.
 <br><br>
