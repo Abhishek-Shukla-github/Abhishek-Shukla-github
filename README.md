@@ -5,11 +5,12 @@
 
 - 🎓 CS Graduate from Mumbai University 
 - 🏛  Software Engineer at ITILITE , building the next-gen travel and expense management platform!
-- 🌱 I’m passionate to explore and learn about JS ecosystem especially in React , due to which i'm having currently learning NextJS.
+- 🌱 I’m passionate to explore and learn about JS ecosystem, so currently I'm learning NextJS and exploring the TypeScript frontiers 😄.
+- ⭐ Excited to connect with new people and interact with them about their journey , learnings and especially the projects they're working on , my socials 🔽
 <br><br>
 </div>
 <a href="https://abshukla.com/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
-<a href="https://github.com/Abhishek-Shukla-github">
-<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
+<!-- <a href="https://github.com/Abhishek-Shukla-github">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a>  -->
   <br>
