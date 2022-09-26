@@ -10,7 +10,9 @@
 <br><br>
 </div>
 <a href="https://abshukla.com/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a>
+<a href="https://www.codewars.com/users/shukla_abhishek">
+<img src="https://img.shields.io/badge/-Codewars-000000?style=for-the-badge&logo=codewars&logoColor=ffffff"></a> 
 <!-- <a href="https://github.com/Abhishek-Shukla-github">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a>  -->
   <br>
