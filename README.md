@@ -2,7 +2,7 @@
 <h3 align="center">A Driven Software Engineer Making an Impact with a Strong Passion for JavaScript.</h3>
 <p align="center"></p>
 
-- 🏫 Upcoming Master of Engineering student at Concordia University, Montreal
+- 🏫 Master of Engineering student at Concordia University, Montreal
   
 - 👨‍💻 All of my projects are available at [abshukla.com](https://www.abshukla.com/)
 
