@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, I am Abhishek Shukla!</h1>
-<h3 align="center">A Driven Software Engineer Making an Impact with a Strong Passion for JavaScript.</h3>
+<h3 align="center">A Software Engineer!</h3>
 <p align="center"></p>
 
 - 🏫 Master of Engineering student at Concordia University, Montreal
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhishekshuklaJS@gmail.com**
 
-- 📄 Know about my professional experiences [Resume](https://drive.google.com/file/d/10lFqvK-ApaP_GeRo-XqcpxkP0imIGeu2/view?usp=sharing)
+- 📄 Know about my professional experiences [Resume](https://drive.google.com/file/d/1-kZTvVEgKYmAkun6VUddN4WOeHLqQt3k/view?usp=sharing)
 
 - 🌱 I’m currently learning more about **NextJS (exploring the App directory) and also TS**
 
